@@ -1,4 +1,4 @@
-# Codigo_Cesar_y_Codigo_Vigenere_en_python_tkinter_interfaz
+# Codigo Cesar y Codigo_Vigenere implementados en python con uso de interfaz mediante tkinter
 <p>Desarrollo de interfaz tkinter para <b><a href="https://es.wikipedia.org/wiki/Cifrado_César" title="">cifrado cesar</a></b> y <b><a href="https://es.wikipedia.org/wiki/Cifrado_de_Vigenère" title="">cifrado de vigenére</a></b> utilizando python en windows.</p>
 
 <p>Para la realización de esta interfaz en python se utilizan las siguientes librerias:</p>
